@@ -1,5 +1,5 @@
 # AI
 ## Lukáš Novota
-### Evolutionary programming under a virtual machine
+### Evolutionary programming above a virtual machine
 
 A school project for Artificial intelligence course at FIIT STU. 
